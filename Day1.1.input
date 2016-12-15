@@ -1,0 +1,317 @@
+R4, R1, L2, R1, L1, L1, R1, L5, R1, R5, L2, R3, L3, L4, R4, R4, R3, L5, L1, R5, R3, L4, R1, R5, L1, R3, L2, R3, R1, L4, L1, R1, L1, L5, R1, L2, R2, L3, L5, R1, R5, L1, R188, L3, R2, R52, R5, L3, R79, L1, R5, R186, R2, R1, L3, L5, L2, R2, R4, R5, R5, L5, L4, R5, R3, L4, R4, L4, L4, R5, L4, L3, L1, L4, R1, R2, L5, R3, L4, R3, L3, L5, R1, R1, L3, R2, R1, R2, R2, L4, R5, R1, R3, R2, L2, L2, L1, R2, L1, L3, R5, R1, R4, R5, R2, R2, R4, R4, R1, L3, R4, L2, R2, R1, R3, L5, R5, R2, R5, L1, R2, R4, L1, R5, L3, L3, R1, L4, R2, L2, R1, L1, R4, R3, L2, L3, R3, L2, R1, L4, R5, L1, R5, L2, L1, L5, L2, L5, L2, L4, L2, R3
+92 is too low
+
+/usr/local/Cellar/python3/3.4.3_2/Frameworks/Python.framework/Versions/3.4/bin/python3.4 "/Users/madelinestager/Desktop/UT/CS/Advent of Code 2016/Day1.1.py"
+Hello
+R4, R1, L2, R1, L1, L1, R1, L5, R1, R5, L2, R3, L3, L4, R4, R4, R3, L5, L1, R5, R3, L4, R1, R5, L1, R3, L2, R3, R1, L4, L1, R1, L1, L5, R1, L2, R2, L3, L5, R1, R5, L1, R188, L3, R2, R52, R5, L3, R79, L1, R5, R186, R2, R1, L3, L5, L2, R2, R4, R5, R5, L5, L4, R5, R3, L4, R4, L4, L4, R5, L4, L3, L1, L4, R1, R2, L5, R3, L4, R3, L3, L5, R1, R1, L3, R2, R1, R2, R2, L4, R5, R1, R3, R2, L2, L2, L1, R2, L1, L3, R5, R1, R4, R5, R2, R2, R4, R4, R1, L3, R4, L2, R2, R1, R3, L5, R5, R2, R5, L1, R2, R4, L1, R5, L3, L3, R1, L4, R2, L2, R1, L1, R4, R3, L2, L3, R3, L2, R1, L4, R5, L1, R5, L2, L1, L5, L2, L5, L2, L4, L2, R3
+
+R4
+x: 4 y: 0
+R1
+x: 4 y: -1
+L2
+x: 6 y: -1
+R1
+x: 6 y: -2
+L1
+x: 7 y: -2
+L1
+x: 7 y: -1
+R1
+x: 8 y: -1
+L5
+x: 8 y: 4
+R1
+x: 9 y: 4
+R5
+x: 9 y: -1
+L2
+x: 11 y: -1
+R3
+x: 11 y: -4
+L3
+x: 14 y: -4
+L4
+x: 14 y: 0
+R4
+x: 18 y: 0
+R4
+x: 18 y: -4
+R3
+x: 15 y: -4
+L5
+x: 15 y: -9
+L1
+x: 16 y: -9
+R5
+x: 16 y: -14
+R3
+x: 13 y: -14
+L4
+x: 13 y: -18
+R1
+x: 12 y: -18
+R5
+x: 12 y: -13
+L1
+x: 11 y: -13
+R3
+x: 11 y: -10
+L2
+x: 9 y: -10
+R3
+x: 9 y: -7
+R1
+x: 10 y: -7
+L4
+x: 10 y: -3
+L1
+x: 9 y: -3
+R1
+x: 9 y: -2
+L1
+x: 8 y: -2
+L5
+x: 8 y: -7
+R1
+x: 7 y: -7
+L2
+x: 7 y: -9
+R2
+x: 5 y: -9
+L3
+x: 5 y: -12
+L5
+x: 10 y: -12
+R1
+x: 10 y: -13
+R5
+x: 5 y: -13
+L1
+x: 5 y: -14
+R188
+x: 4 y: -14
+L3
+x: 4 y: -17
+R2
+x: 2 y: -17
+R52
+x: 2 y: -12
+R5
+x: 7 y: -12
+L3
+x: 7 y: -9
+R79
+x: 14 y: -9
+L1
+x: 14 y: -8
+R5
+x: 19 y: -8
+R186
+x: 19 y: -9
+R2
+x: 17 y: -9
+R1
+x: 17 y: -8
+L3
+x: 14 y: -8
+L5
+x: 14 y: -13
+L2
+x: 16 y: -13
+R2
+x: 16 y: -15
+R4
+x: 12 y: -15
+R5
+x: 12 y: -10
+R5
+x: 17 y: -10
+L5
+x: 17 y: -5
+L4
+x: 13 y: -5
+R5
+x: 13 y: 0
+R3
+x: 16 y: 0
+L4
+x: 16 y: 4
+R4
+x: 20 y: 4
+L4
+x: 20 y: 8
+L4
+x: 16 y: 8
+R5
+x: 16 y: 13
+L4
+x: 12 y: 13
+L3
+x: 12 y: 10
+L1
+x: 13 y: 10
+L4
+x: 13 y: 14
+R1
+x: 14 y: 14
+R2
+x: 14 y: 12
+L5
+x: 19 y: 12
+R3
+x: 19 y: 9
+L4
+x: 23 y: 9
+R3
+x: 23 y: 6
+L3
+x: 26 y: 6
+L5
+x: 26 y: 11
+R1
+x: 27 y: 11
+R1
+x: 27 y: 10
+L3
+x: 30 y: 10
+R2
+x: 30 y: 8
+R1
+x: 29 y: 8
+R2
+x: 29 y: 10
+R2
+x: 31 y: 10
+L4
+x: 31 y: 14
+R5
+x: 36 y: 14
+R1
+x: 36 y: 13
+R3
+x: 33 y: 13
+R2
+x: 33 y: 15
+L2
+x: 31 y: 15
+L2
+x: 31 y: 13
+L1
+x: 32 y: 13
+R2
+x: 32 y: 11
+L1
+x: 33 y: 11
+L3
+x: 33 y: 14
+R5
+x: 38 y: 14
+R1
+x: 38 y: 13
+R4
+x: 34 y: 13
+R5
+x: 34 y: 18
+R2
+x: 36 y: 18
+R2
+x: 36 y: 16
+R4
+x: 32 y: 16
+R4
+x: 32 y: 20
+R1
+x: 33 y: 20
+L3
+x: 33 y: 23
+R4
+x: 37 y: 23
+L2
+x: 37 y: 25
+R2
+x: 39 y: 25
+R1
+x: 39 y: 24
+R3
+x: 36 y: 24
+L5
+x: 36 y: 19
+R5
+x: 31 y: 19
+R2
+x: 31 y: 21
+R5
+x: 36 y: 21
+L1
+x: 36 y: 22
+R2
+x: 38 y: 22
+R4
+x: 38 y: 18
+L1
+x: 39 y: 18
+R5
+x: 39 y: 13
+L3
+x: 42 y: 13
+L3
+x: 42 y: 16
+R1
+x: 43 y: 16
+L4
+x: 43 y: 20
+R2
+x: 45 y: 20
+L2
+x: 45 y: 22
+R1
+x: 46 y: 22
+L1
+x: 46 y: 23
+R4
+x: 50 y: 23
+R3
+x: 50 y: 20
+L2
+x: 52 y: 20
+L3
+x: 52 y: 23
+R3
+x: 55 y: 23
+L2
+x: 55 y: 25
+R1
+x: 56 y: 25
+L4
+x: 56 y: 29
+R5
+x: 61 y: 29
+L1
+x: 61 y: 30
+R5
+x: 66 y: 30
+L2
+x: 66 y: 32
+L1
+x: 65 y: 32
+L5
+x: 65 y: 27
+L2
+x: 67 y: 27
+L5
+x: 67 y: 32
+L2
+x: 65 y: 32
+L4
+x: 65 y: 28
+L2
+x: 67 y: 28
+R3
+
+x: 67 y: 25
+x: 67 y: 25
+92
+Bye
+
+Process finished with exit code 0
